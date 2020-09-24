@@ -22,7 +22,7 @@ public class iOSNativeTest {
     public void setUp() throws MalformedURLException {
         dc.setCapability("testName", "Quick Start iOS Native Demo");
         dc.setCapability("accessKey", accessKey);
-        dc.setCapability("deviceQuery", "@serialnumber='b1dc8c658b93eb618c26e5256f41e875ac7f323e'");
+        dc.setCapability("deviceQuery", "@os='ios'");
         dc.setCapability(MobileCapabilityType.APP, "cloud:com.experitest.ExperiBank");
         dc.setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.experitest.ExperiBank");
         driver = new IOSDriver<>(new URL("https://uscloud.experitest.com/wd/hub"), dc);
