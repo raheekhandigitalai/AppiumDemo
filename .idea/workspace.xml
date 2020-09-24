@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15dc116b-3ac6-45e2-8fce-a23e8cd6717a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hYcjxxn58Zgr59x4JY0dIeqH9p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumDemo" />
+  </component>
+  <component name="RunManager" selected="TestNG.iOSNativeTest.quickStartiOSNativeDemo">
+    <configuration name="iOSNativeTest.quickStartiOSNativeDemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.iOSNativeTest" />
+      <option name="METHOD_NAME" value="quickStartiOSNativeDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOSNativeTest.quickStartiOSNativeDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumDemo" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.iOSNativeTest" />
+      <option name="METHOD_NAME" value="quickStartiOSNativeDemo" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.iOSNativeTest.quickStartiOSNativeDemo" />
+      <item itemvalue="TestNG.iOSNativeTest.quickStartiOSNativeDemo (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.iOSNativeTest.quickStartiOSNativeDemo" />
+        <item itemvalue="TestNG.iOSNativeTest.quickStartiOSNativeDemo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15dc116b-3ac6-45e2-8fce-a23e8cd6717a" name="Default Changelist" comment="" />
+      <created>1600191607969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600191607969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600964320816">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600964320816" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1600964934271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600964934271" />
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom" timestamp="1600964936395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600964936395" />
+    <state width="1237" height="236" key="GridCell.Tab.0.center" timestamp="1600964936395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600964936395" />
+    <state width="1237" height="236" key="GridCell.Tab.0.left" timestamp="1600964936394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600964936394" />
+    <state width="1237" height="236" key="GridCell.Tab.0.right" timestamp="1600964936395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600964936395" />
+    <state x="91" y="2" key="new project wizard" timestamp="1600191641308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="2" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1600191641308" />
+  </component>
+</project>
